@@ -7,9 +7,6 @@
 Вакансия:  
 https://hh.ru/vacancy/130964714
 
-Оригинальное техническое задание:  
-:contentReference[oaicite:0]{index=0}
-
 ---
 
 # Описание задачи
